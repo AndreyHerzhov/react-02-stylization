@@ -1,8 +1,8 @@
 // import PaintingList from './components/PaintingList';
 // import ColorPicker from './components/ColorPicker/ColorPicker';
 // import Alert from './components/Alert/Alert';
-import Container from './components/Container/Container';
-import Box from './components/Box/Box';
+import Container from './Container/Container';
+import Box from './Box/Box';
 // import paintings from './paintings.json';
 
 // const colorPickerOptions = [
